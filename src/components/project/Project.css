@@ -1,0 +1,10 @@
+.header-wraperr {
+  position: relative;
+  background-color: #919993;
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+}
+.card {
+  z-index: 1;
+}
